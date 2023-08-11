@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akolza
-- 👀 I’m interested in majoring in Computer Science. I'm interested in efficiency, working with animation.
+- 👀 I’m majoring in Computer Science. I'm interested in efficiency, working with animation.
 - 🌱 I’m currently learning Python and Java at Western Washinton University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email a.kolze@outlook.com
